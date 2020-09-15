@@ -1,0 +1,26 @@
+#receiptTable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#receiptTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgba(100, 241, 234, 0.8);
+    color: white;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#receiptTable tr {
+    display: flex;
+    justify-content: center;
+}
+
+#receiptTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color: rgba(241, 255, 254, 0.8);
+}

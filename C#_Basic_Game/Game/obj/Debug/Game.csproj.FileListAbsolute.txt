@@ -1,0 +1,14 @@
+C:\Users\1835217\Desktop\Game\Game\bin\Debug\Game.exe.config
+C:\Users\1835217\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\1835217\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\1835217\Desktop\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\1835217\Desktop\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\1835217\Desktop\Game\Game\obj\Debug\Game.exe
+C:\Users\1835217\Desktop\Game\Game\obj\Debug\Game.pdb
+C:\Users\Dipesh\Documents\School\College\Sem 1\Programming 1\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Dipesh\Documents\School\College\Sem 1\Programming 1\Game\Game\bin\Debug\Game.exe
+C:\Users\Dipesh\Documents\School\College\Sem 1\Programming 1\Game\Game\bin\Debug\Game.pdb
+C:\Users\Dipesh\Documents\School\College\Sem 1\Programming 1\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Dipesh\Documents\School\College\Sem 1\Programming 1\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Dipesh\Documents\School\College\Sem 1\Programming 1\Game\Game\obj\Debug\Game.exe
+C:\Users\Dipesh\Documents\School\College\Sem 1\Programming 1\Game\Game\obj\Debug\Game.pdb

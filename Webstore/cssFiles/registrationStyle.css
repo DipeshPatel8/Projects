@@ -1,0 +1,21 @@
+#registrationBox{
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 500px;
+    background-image: url('../images/wackyShape.png');
+}
+
+#transparentLayer{
+    background-color: rgba(235, 255, 255, 0.95);
+    padding: 35px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    padding: 20%;
+    justify-content: center;
+}

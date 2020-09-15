@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78811a35-a99e-4ce0-8cab-1d8582059264" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../asg4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../asg4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asg4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../asg4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asg4/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../asg4/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aAijDPpG7lVnbF0Ebhl3UvRZJC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78811a35-a99e-4ce0-8cab-1d8582059264" name="Default Changelist" comment="" />
+      <created>1586184931748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586184931748</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="268" key="FileChooserDialogImpl" timestamp="1586547259760">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="397" y="268" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1586547259760" />
+    <state x="420" y="112" key="SettingsEditor" timestamp="1586547107869">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="420" y="112" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1586547107869" />
+    <state x="136" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1586547228378">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="136" y="338" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586547228378" />
+    <state x="0" y="134" key="new project wizard" timestamp="1586547264088">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="134" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1586547264088" />
+  </component>
+</project>

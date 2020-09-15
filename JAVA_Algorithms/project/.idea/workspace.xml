@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4531f1ed-858a-4359-9fbf-037fcfc3c8da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/foo.bin" beforeDir="false" afterPath="$PROJECT_DIR$/foo.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/MainDeserialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/MainDeserialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/MainSerialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/MainSerialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/collections/Either.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/collections/Either.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/collections/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/collections/list/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/collections/map/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/collections/map/HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/collections/set/TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/collections/set/TreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/serialization/util/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/qc/johnabbott/cs406/serialization/util/Date.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cVr45V1pxJbTBoCrRKElAv1XRb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dipesh\Documents\Academics\College\420-406-Data-Structure\project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainDeserialize">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="project" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="project" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="project" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4531f1ed-858a-4359-9fbf-037fcfc3c8da" name="Default Changelist" comment="" />
+      <created>1590624406315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590624406315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="948" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1590705039001">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="948" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1590705039001" />
+    <state width="1032" height="351" key="GridCell.Tab.0.bottom" timestamp="1590718268343">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1032" height="351" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590718268343" />
+    <state width="1032" height="351" key="GridCell.Tab.0.center" timestamp="1590718268343">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1032" height="351" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590718268343" />
+    <state width="1032" height="351" key="GridCell.Tab.0.left" timestamp="1590718268343">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1032" height="351" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590718268343" />
+    <state width="1032" height="351" key="GridCell.Tab.0.right" timestamp="1590718268343">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1032" height="351" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590718268343" />
+    <state width="1032" height="351" key="GridCell.Tab.1.bottom" timestamp="1590718268343">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1032" height="351" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590718268343" />
+    <state width="1032" height="351" key="GridCell.Tab.1.center" timestamp="1590718268343">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1032" height="351" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590718268343" />
+    <state width="1032" height="351" key="GridCell.Tab.1.left" timestamp="1590718268343">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1032" height="351" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590718268343" />
+    <state width="1032" height="351" key="GridCell.Tab.1.right" timestamp="1590718268343">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1032" height="351" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590718268343" />
+    <state x="889" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1590684797191">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="889" y="349" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590684797191" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="destination" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

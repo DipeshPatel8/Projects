@@ -1,0 +1,38 @@
+<Expenses>
+  <Expense ID="1">
+    <Date>2/11/2018 12:00:00 AM</Date>
+    <Description>prom dress (on credit)</Description>
+    <Amount>1000</Amount>
+    <Category>10</Category>
+  </Expense>
+  <Expense ID="2">
+    <Date>2/11/2018 12:00:00 AM</Date>
+    <Description>something else (on credit)</Description>
+    <Amount>20</Amount>
+    <Category>10</Category>
+  </Expense>
+  <Expense ID="3">
+    <Date>2/11/2018 12:00:00 AM</Date>
+    <Description>chips and dips</Description>
+    <Amount>20</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="4">
+    <Date>2/11/2018 12:00:00 AM</Date>
+    <Description>Theatre Tickets (on credit)</Description>
+    <Amount>100</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="5">
+    <Date>2/11/2018 12:00:00 AM</Date>
+    <Description>Theatre Tickets (on credit)</Description>
+    <Amount>-100</Amount>
+    <Category>9</Category>
+  </Expense>
+  <Expense ID="6">
+    <Date>2/19/2018 12:00:00 AM</Date>
+    <Description>mcdonalds</Description>
+    <Amount>-8</Amount>
+    <Category>14</Category>
+  </Expense>
+</Expenses>

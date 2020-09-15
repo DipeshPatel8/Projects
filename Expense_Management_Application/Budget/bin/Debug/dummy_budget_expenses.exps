@@ -1,0 +1,1874 @@
+<Expenses>
+  <Expense ID="1">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>163</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="2">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="3">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="4">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="5">
+    <Date>2/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>165</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="6">
+    <Date>2/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="7">
+    <Date>2/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="8">
+    <Date>2/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="9">
+    <Date>3/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>166</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="10">
+    <Date>3/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="11">
+    <Date>3/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="12">
+    <Date>3/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="13">
+    <Date>4/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>156</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="14">
+    <Date>4/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="15">
+    <Date>4/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="16">
+    <Date>4/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="17">
+    <Date>5/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>191</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="18">
+    <Date>5/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="19">
+    <Date>5/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="20">
+    <Date>5/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="21">
+    <Date>6/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>174</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="22">
+    <Date>6/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="23">
+    <Date>6/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="24">
+    <Date>6/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="25">
+    <Date>7/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>183</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="26">
+    <Date>7/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="27">
+    <Date>7/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="28">
+    <Date>7/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="29">
+    <Date>8/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>178</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="30">
+    <Date>8/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="31">
+    <Date>8/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="32">
+    <Date>8/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="33">
+    <Date>9/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>161</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="34">
+    <Date>9/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="35">
+    <Date>9/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="36">
+    <Date>9/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="37">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>188</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="38">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="39">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="40">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="41">
+    <Date>11/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>170</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="42">
+    <Date>11/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="43">
+    <Date>11/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="44">
+    <Date>11/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="45">
+    <Date>12/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>171</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="46">
+    <Date>12/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="47">
+    <Date>12/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="48">
+    <Date>12/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="49">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>157</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="50">
+    <Date>1/2/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="51">
+    <Date>1/3/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="52">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="53">
+    <Date>1/4/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>36</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="54">
+    <Date>1/8/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>165</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="55">
+    <Date>1/8/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>23</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="56">
+    <Date>1/8/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="57">
+    <Date>1/8/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="58">
+    <Date>1/10/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>36</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="59">
+    <Date>1/15/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>154</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="60">
+    <Date>1/15/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="61">
+    <Date>1/17/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="62">
+    <Date>1/15/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="63">
+    <Date>1/17/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>36</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="64">
+    <Date>1/22/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>157</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="65">
+    <Date>1/24/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="66">
+    <Date>1/25/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="67">
+    <Date>1/22/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="68">
+    <Date>1/23/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>38</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="69">
+    <Date>1/29/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>170</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="70">
+    <Date>1/30/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="71">
+    <Date>1/31/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="72">
+    <Date>1/29/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="73">
+    <Date>2/1/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>44</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="74">
+    <Date>2/5/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>173</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="75">
+    <Date>2/5/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="76">
+    <Date>2/6/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="77">
+    <Date>2/5/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="78">
+    <Date>2/7/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>40</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="79">
+    <Date>2/12/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>165</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="80">
+    <Date>2/13/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="81">
+    <Date>2/13/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="82">
+    <Date>2/12/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="83">
+    <Date>2/15/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>39</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="84">
+    <Date>2/19/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>172</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="85">
+    <Date>2/19/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>23</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="86">
+    <Date>2/19/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="87">
+    <Date>2/19/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="88">
+    <Date>2/22/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>45</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="89">
+    <Date>2/26/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>165</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="90">
+    <Date>2/26/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="91">
+    <Date>2/26/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="92">
+    <Date>2/26/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="93">
+    <Date>2/28/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>43</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="94">
+    <Date>3/5/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>160</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="95">
+    <Date>3/6/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="96">
+    <Date>3/5/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="97">
+    <Date>3/5/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="98">
+    <Date>3/8/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>40</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="99">
+    <Date>3/12/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>156</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="100">
+    <Date>3/12/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="101">
+    <Date>3/15/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="102">
+    <Date>3/12/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="103">
+    <Date>3/13/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>42</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="104">
+    <Date>3/19/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>157</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="105">
+    <Date>3/22/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>22</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="106">
+    <Date>3/20/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="107">
+    <Date>3/19/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="108">
+    <Date>3/22/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>38</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="109">
+    <Date>3/26/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>150</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="110">
+    <Date>3/29/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="111">
+    <Date>3/28/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="112">
+    <Date>3/26/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="113">
+    <Date>3/26/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>39</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="114">
+    <Date>4/2/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>164</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="115">
+    <Date>4/4/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>22</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="116">
+    <Date>4/2/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="117">
+    <Date>4/2/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="118">
+    <Date>4/5/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>42</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="119">
+    <Date>4/9/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>170</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="120">
+    <Date>4/12/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>22</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="121">
+    <Date>4/9/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="122">
+    <Date>4/9/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="123">
+    <Date>4/12/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>37</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="124">
+    <Date>4/16/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>163</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="125">
+    <Date>4/18/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>23</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="126">
+    <Date>4/18/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="127">
+    <Date>4/16/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="128">
+    <Date>4/16/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>43</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="129">
+    <Date>4/23/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>151</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="130">
+    <Date>4/23/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>23</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="131">
+    <Date>4/23/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="132">
+    <Date>4/23/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="133">
+    <Date>4/26/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>36</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="134">
+    <Date>4/30/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>159</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="135">
+    <Date>4/30/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="136">
+    <Date>5/2/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="137">
+    <Date>4/30/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="138">
+    <Date>4/30/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>42</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="139">
+    <Date>5/7/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>169</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="140">
+    <Date>5/10/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="141">
+    <Date>5/9/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="142">
+    <Date>5/7/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="143">
+    <Date>5/8/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>37</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="144">
+    <Date>5/14/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>174</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="145">
+    <Date>5/14/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="146">
+    <Date>5/16/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="147">
+    <Date>5/14/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="148">
+    <Date>5/14/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>40</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="149">
+    <Date>5/21/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>155</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="150">
+    <Date>5/21/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="151">
+    <Date>5/21/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="152">
+    <Date>5/21/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="153">
+    <Date>5/24/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>39</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="154">
+    <Date>5/28/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>167</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="155">
+    <Date>5/29/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="156">
+    <Date>5/29/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="157">
+    <Date>5/28/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="158">
+    <Date>5/30/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>35</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="159">
+    <Date>6/4/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>164</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="160">
+    <Date>6/6/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>23</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="161">
+    <Date>6/5/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="162">
+    <Date>6/4/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="163">
+    <Date>6/6/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>44</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="164">
+    <Date>6/11/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>160</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="165">
+    <Date>6/11/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>23</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="166">
+    <Date>6/14/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="167">
+    <Date>6/11/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="168">
+    <Date>6/12/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>36</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="169">
+    <Date>6/18/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>172</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="170">
+    <Date>6/21/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="171">
+    <Date>6/19/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="172">
+    <Date>6/18/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="173">
+    <Date>6/20/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>45</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="174">
+    <Date>6/25/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>163</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="175">
+    <Date>6/26/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="176">
+    <Date>6/26/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="177">
+    <Date>6/25/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="178">
+    <Date>6/28/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>43</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="179">
+    <Date>7/2/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>154</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="180">
+    <Date>7/2/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="181">
+    <Date>7/5/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="182">
+    <Date>7/2/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="183">
+    <Date>7/5/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>44</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="184">
+    <Date>7/9/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>170</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="185">
+    <Date>7/11/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="186">
+    <Date>7/10/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="187">
+    <Date>7/9/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="188">
+    <Date>7/12/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>46</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="189">
+    <Date>7/16/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>163</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="190">
+    <Date>7/18/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>22</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="191">
+    <Date>7/17/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="192">
+    <Date>7/16/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="193">
+    <Date>7/17/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>46</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="194">
+    <Date>7/23/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>168</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="195">
+    <Date>7/24/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="196">
+    <Date>7/26/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="197">
+    <Date>7/23/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="198">
+    <Date>7/24/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>46</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="199">
+    <Date>7/30/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>158</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="200">
+    <Date>7/31/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>22</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="201">
+    <Date>8/2/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="202">
+    <Date>7/30/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="203">
+    <Date>8/1/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>37</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="204">
+    <Date>8/6/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>152</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="205">
+    <Date>8/7/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>23</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="206">
+    <Date>8/9/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="207">
+    <Date>8/6/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="208">
+    <Date>8/6/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>41</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="209">
+    <Date>8/13/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>164</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="210">
+    <Date>8/15/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="211">
+    <Date>8/16/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="212">
+    <Date>8/13/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="213">
+    <Date>8/16/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>44</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="214">
+    <Date>8/20/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>174</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="215">
+    <Date>8/22/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="216">
+    <Date>8/20/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="217">
+    <Date>8/20/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="218">
+    <Date>8/23/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>36</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="219">
+    <Date>8/27/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>159</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="220">
+    <Date>8/27/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="221">
+    <Date>8/27/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="222">
+    <Date>8/27/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="223">
+    <Date>8/29/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>39</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="224">
+    <Date>9/3/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>170</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="225">
+    <Date>9/4/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="226">
+    <Date>9/3/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="227">
+    <Date>9/3/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="228">
+    <Date>9/4/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>43</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="229">
+    <Date>9/10/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>154</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="230">
+    <Date>9/13/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>23</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="231">
+    <Date>9/13/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="232">
+    <Date>9/10/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="233">
+    <Date>9/10/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>43</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="234">
+    <Date>9/17/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>156</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="235">
+    <Date>9/19/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="236">
+    <Date>9/20/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="237">
+    <Date>9/17/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="238">
+    <Date>9/20/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>42</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="239">
+    <Date>9/24/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>169</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="240">
+    <Date>9/27/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>22</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="241">
+    <Date>9/24/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="242">
+    <Date>9/24/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="243">
+    <Date>9/27/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>43</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="244">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>151</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="245">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="246">
+    <Date>10/2/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="247">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="248">
+    <Date>10/3/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>41</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="249">
+    <Date>10/8/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>154</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="250">
+    <Date>10/8/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>23</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="251">
+    <Date>10/9/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="252">
+    <Date>10/8/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="253">
+    <Date>10/8/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>44</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="254">
+    <Date>10/15/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>167</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="255">
+    <Date>10/16/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="256">
+    <Date>10/16/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="257">
+    <Date>10/15/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="258">
+    <Date>10/18/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>36</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="259">
+    <Date>10/22/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>150</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="260">
+    <Date>10/22/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>22</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="261">
+    <Date>10/22/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="262">
+    <Date>10/22/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="263">
+    <Date>10/25/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>38</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="264">
+    <Date>10/29/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>169</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="265">
+    <Date>10/30/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="266">
+    <Date>10/30/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="267">
+    <Date>10/29/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="268">
+    <Date>10/29/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>44</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="269">
+    <Date>11/5/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>173</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="270">
+    <Date>11/7/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>22</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="271">
+    <Date>11/5/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="272">
+    <Date>11/5/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="273">
+    <Date>11/5/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>38</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="274">
+    <Date>11/12/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>158</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="275">
+    <Date>11/15/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="276">
+    <Date>11/13/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="277">
+    <Date>11/12/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="278">
+    <Date>11/14/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>36</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="279">
+    <Date>11/19/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>150</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="280">
+    <Date>11/22/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>22</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="281">
+    <Date>11/21/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="282">
+    <Date>11/19/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="283">
+    <Date>11/20/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>40</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="284">
+    <Date>11/26/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>161</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="285">
+    <Date>11/27/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="286">
+    <Date>11/27/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="287">
+    <Date>11/26/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="288">
+    <Date>11/26/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>44</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="289">
+    <Date>12/3/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>156</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="290">
+    <Date>12/6/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="291">
+    <Date>12/3/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="292">
+    <Date>12/3/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="293">
+    <Date>12/5/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>37</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="294">
+    <Date>12/10/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>153</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="295">
+    <Date>12/13/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>24</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="296">
+    <Date>12/13/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="297">
+    <Date>12/10/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="298">
+    <Date>12/11/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>39</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="299">
+    <Date>12/17/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>155</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="300">
+    <Date>12/19/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>20</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="301">
+    <Date>12/20/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="302">
+    <Date>12/17/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="303">
+    <Date>12/17/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>35</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="304">
+    <Date>12/24/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>169</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="305">
+    <Date>12/26/2017 12:00:00 AM</Date>
+    <Description>Beer &amp; Pizza</Description>
+    <Amount>21</Amount>
+    <Category>3</Category>
+  </Expense>
+  <Expense ID="306">
+    <Date>12/25/2017 12:00:00 AM</Date>
+    <Description>Movie &amp; Snacks</Description>
+    <Amount>25</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="307">
+    <Date>12/24/2017 12:00:00 AM</Date>
+    <Description>Flipping Burgers PayCheck</Description>
+    <Amount>-600</Amount>
+    <Category>16</Category>
+  </Expense>
+  <Expense ID="308">
+    <Date>12/24/2017 12:00:00 AM</Date>
+    <Description>Gas</Description>
+    <Amount>46</Amount>
+    <Category>13</Category>
+  </Expense>
+  <Expense ID="309">
+    <Date>8/6/2017 12:00:00 AM</Date>
+    <Description>AirFare</Description>
+    <Amount>753</Amount>
+    <Category>8</Category>
+  </Expense>
+  <Expense ID="310">
+    <Date>8/16/2017 12:00:00 AM</Date>
+    <Description>Hotel Bill</Description>
+    <Amount>353</Amount>
+    <Category>8</Category>
+  </Expense>
+  <Expense ID="311">
+    <Date>11/23/2017 12:00:00 AM</Date>
+    <Description>Dental Checkup</Description>
+    <Amount>65</Amount>
+    <Category>7</Category>
+  </Expense>
+  <Expense ID="312">
+    <Date>12/1/2017 12:00:00 AM</Date>
+    <Description>Broke a tooth - Needed a Crown!</Description>
+    <Amount>605</Amount>
+    <Category>7</Category>
+  </Expense>
+</Expenses>

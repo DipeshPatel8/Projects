@@ -1,0 +1,20 @@
+<Expenses>
+  <Expense ID="2">
+    <Date>3/15/2018 12:00:00 AM</Date>
+    <Description>oiuoiu</Description>
+    <Amount>8098</Amount>
+    <Category>4</Category>
+  </Expense>
+  <Expense ID="3">
+    <Date>3/15/2018 12:00:00 AM</Date>
+    <Description>oiuoiu</Description>
+    <Amount>980</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="5">
+    <Date>3/15/2018 12:00:00 AM</Date>
+    <Description>kjhkjh</Description>
+    <Amount>98</Amount>
+    <Category>10</Category>
+  </Expense>
+</Expenses>

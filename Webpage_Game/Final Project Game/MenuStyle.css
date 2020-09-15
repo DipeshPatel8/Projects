@@ -1,0 +1,59 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #121212;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: turquoise;
+    justify-content: center;
+}
+div{
+    border-style: double;;
+    border-color: white;
+    color: white;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    /*https://www.bestcssbuttongenerator.com/#/39*/
+    box-shadow:inset 0px 1px 0px 0px #00fff2;
+	background:linear-gradient(to bottom, #00f7ff 5%, #39dde3 100%);
+	background-color:#00f7ff;
+	border-radius:6px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #00ffff;  
+    margin-bottom: 30px;
+}
+button:hover {
+    /*https://www.bestcssbuttongenerator.com/#/39*/
+    background:linear-gradient(to bottom, #39dde3 5%, #00f7ff 100%);
+	background-color:#39dde3;
+}
+
+img{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+ul{
+    list-style: circle;
+}
+

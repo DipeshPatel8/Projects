@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MainDeserialize" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ca.qc.johnabbott.cs406.MainDeserialize" />
+    <module name="project_starter" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

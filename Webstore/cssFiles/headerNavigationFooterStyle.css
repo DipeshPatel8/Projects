@@ -1,0 +1,82 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#mainHeader {
+    background-image: url('../images/header.png');
+    text-align: center;
+    padding: 40px;
+}
+
+#titleBackground {
+    background-color: rgba(235, 255, 255, 0.6);
+    padding: 5px;
+}
+
+footer{
+    background-image: url('../images/footer.jpg');
+    padding: 10px;
+    font-size: 20px;
+}
+
+#footerBackground{
+    background-color: rgba(235, 255, 255, 0.6);
+    padding: 10px;
+    display: table;
+    clear: both;
+    width: 97%;
+}
+
+#socialMedia {
+    width: 50%;
+    padding: 5px;
+    float: right;
+}
+
+#personalContact {
+    padding: 5px;
+    float: left;
+}
+
+.navBar {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.navBar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navBar a:hover {
+    background-color: aqua;
+    color: black;
+}
+
+#cart {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+#cart:hover {
+    background-color: #dddddd;
+    color: black;
+}

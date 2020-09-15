@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ProfileLists" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ca.qc.johnabbott.cs406.ProfileLists" />
+    <module name="asg5" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

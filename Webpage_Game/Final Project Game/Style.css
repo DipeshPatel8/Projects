@@ -1,0 +1,20 @@
+canvas{
+    /* https://stackoverflow.com/questions/3008635/html5-canvas-element-multiple-layers */
+    position: absolute;
+}
+
+canvas#status
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color:#0f4016;
+    margin: 20px;
+}
+
+body {
+    display: flex;
+    background-color: #121212;
+    justify-content: center;
+}
+

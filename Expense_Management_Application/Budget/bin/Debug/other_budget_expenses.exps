@@ -1,0 +1,297 @@
+<Expenses>
+  <Expense ID="1">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>163</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="2">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="3">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="4">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="5">
+    <Date>2/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>165</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="6">
+    <Date>2/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="7">
+    <Date>2/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="8">
+    <Date>2/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="9">
+    <Date>3/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>166</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="10">
+    <Date>3/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="11">
+    <Date>3/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="12">
+    <Date>3/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="13">
+    <Date>4/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>156</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="14">
+    <Date>4/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="15">
+    <Date>4/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="16">
+    <Date>4/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="17">
+    <Date>5/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>191</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="18">
+    <Date>5/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="19">
+    <Date>5/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="20">
+    <Date>5/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="21">
+    <Date>6/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>174</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="22">
+    <Date>6/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="23">
+    <Date>6/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="24">
+    <Date>6/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="25">
+    <Date>7/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>183</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="26">
+    <Date>7/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="27">
+    <Date>7/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="28">
+    <Date>7/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="29">
+    <Date>8/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>178</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="30">
+    <Date>8/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="31">
+    <Date>8/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="32">
+    <Date>8/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="33">
+    <Date>9/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>161</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="34">
+    <Date>9/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="35">
+    <Date>9/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="36">
+    <Date>9/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="37">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>188</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="38">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="39">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="40">
+    <Date>10/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="41">
+    <Date>11/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>170</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="42">
+    <Date>11/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="43">
+    <Date>11/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="44">
+    <Date>11/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="45">
+    <Date>12/1/2017 12:00:00 AM</Date>
+    <Description>Electricity</Description>
+    <Amount>171</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="46">
+    <Date>12/1/2017 12:00:00 AM</Date>
+    <Description>Phones and Internet</Description>
+    <Amount>300</Amount>
+    <Category>1</Category>
+  </Expense>
+  <Expense ID="47">
+    <Date>12/1/2017 12:00:00 AM</Date>
+    <Description>Rent</Description>
+    <Amount>700</Amount>
+    <Category>2</Category>
+  </Expense>
+  <Expense ID="48">
+    <Date>12/1/2017 12:00:00 AM</Date>
+    <Description>Life Insurance</Description>
+    <Amount>107</Amount>
+    <Category>12</Category>
+  </Expense>
+  <Expense ID="49">
+    <Date>1/1/2017 12:00:00 AM</Date>
+    <Description>Food</Description>
+    <Amount>157</Amount>
+    <Category>3</Category>
+  </Expense>
+
+</Expenses>

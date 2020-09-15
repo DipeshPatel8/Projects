@@ -1,0 +1,37 @@
+#cartTable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#cartTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgba(100, 241, 234, 0.8);
+    color: white;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#cartTable tr {
+    display: flex;
+    justify-content: center;
+}
+
+#cartTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color: rgba(241, 255, 254, 0.8);
+}
+
+#cartTable button, #checkOutBtn {
+    background-color: rgb(53, 153, 184);
+    border: none;
+    color: white;
+    padding: 10px 17px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

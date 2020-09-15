@@ -1,0 +1,23 @@
+#loginBox {
+    background-image: url('../images/blueSwirl.png');
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.8;
+}
+
+#loginBox::before {
+    opacity: 0.5;
+}
+
+#contrast {
+    background-color: rgba(235, 255, 255, 0.6);
+    padding: 15px;
+    text-align: center;
+}
+
+main{
+    padding: 20%;
+    justify-content: center;
+    background-color: rgba(235, 255, 255, 0.6);
+}

@@ -1,0 +1,40 @@
+main{
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto;
+    grid-template-areas:
+    "photo info"
+    "description description"
+    "reviews reviews";
+}
+
+.pic{
+    grid-area: photo;
+}
+
+.info{
+    grid-area: info;
+    background-color: rgb(227, 247, 253);
+}
+
+.description{
+    grid-area: description;
+    float: left;
+    background-color: rgb(211, 230, 235);
+}
+
+.reviews{
+    grid-area: reviews;
+    background-color: rgb(206, 244, 255);
+}
+
+button {
+    background-color: rgb(20, 173, 220);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
