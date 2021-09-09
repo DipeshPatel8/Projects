@@ -1,1 +1,0 @@
-This was a team project. I worked on this with my teamate, her name is mentionned
